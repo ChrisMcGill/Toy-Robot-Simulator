@@ -11,19 +11,8 @@ LEFT
 RIGHT
 REPORT
 
-
 Test-Driven Development (TDD): The entire core logic was built using a test-first approach. The solution has 100% unit test coverage for all business logic, boundary conditions, and command parsing.
 
-Project Structure/
-|-- ToyRobotSimulator.sln (The solution file)
-|-- src/
-| |-- ToyRobotSimulator.ConsoleApp/ (The executable entry point)
-| |-- ToyRobotSimulator.Core/ (All business logic, testable)
-|-- tests/
-| |-- ToyRobotSimulator.Core.Tests/ 
-|-- testdata.txt
-|-- README.md (This file)
-```
 
 ## How to Build and Run
 
