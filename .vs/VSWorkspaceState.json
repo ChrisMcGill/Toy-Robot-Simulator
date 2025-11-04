@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\ToyRobotSimulator.Core",
+    "\\tests",
+    "\\tests\\ToyRobotSimulator.Core.Tests"
+  ],
+  "PreviewInSolutionExplorer": false
+}
